@@ -57,14 +57,6 @@ All provisioning and configuration is driven from **PowerShell 7** on Windows us
               └─────────────────────────┘
 ```
 
-**Instance details from this project:**
-- Instance ID: `i-0497c6286c1d0a747`
-- Public IP: `35.175.139.30`
-- Private IP: `10.0.1.108`
-- OS: Ubuntu 22.04.5 LTS (Kernel 6.8.0-1053-aws)
-
----
-
 ## Prerequisites
 
 | Tool | Version | Purpose |
