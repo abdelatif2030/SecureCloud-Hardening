@@ -1,0 +1,35 @@
+# AWS Keys & Credentials
+*.pem
+*.ppk
+.aws/
+credentials
+aws-credentials.txt
+
+# Environment Variables
+.env
+.env.*
+*.env
+
+# PowerShell Sensitive
+*-key.ps1
+secrets.ps1
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temp
+*.tmp
+*.bak
+*.backup
