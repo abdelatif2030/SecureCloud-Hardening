@@ -301,6 +301,6 @@ Login banner displayed on every SSH connection:
 DevOps Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdelatif2030-181717?logo=github)](https://github.com/abdelatif2030)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?logo=upwork)](https://www.upwork.com/freelancers/abdelatif2030)
+
 
 > Built with PowerShell, AWS CLI, and a passion for secure infrastructure.
