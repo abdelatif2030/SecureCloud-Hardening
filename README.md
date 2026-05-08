@@ -293,3 +293,14 @@ Login banner displayed on every SSH connection:
 ---
 
 > **Note:** AWS credentials visible in terminal history should be rotated immediately after use. For production, use IAM roles attached to the instance instead of access keys.
+
+
+## 👤 Author
+
+**Abdelatef Mohamed**
+DevOps Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-abdelatif2030-181717?logo=github)](https://github.com/abdelatif2030)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?logo=upwork)](https://www.upwork.com/freelancers/abdelatif2030)
+
+> Built with PowerShell, AWS CLI, and a passion for secure infrastructure.
